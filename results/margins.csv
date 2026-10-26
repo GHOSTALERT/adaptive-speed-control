@@ -1,0 +1,7 @@
+controller,gm_db,pm_deg,w_gc_rad_s,w_pc_rad_s
+P,Inf,120.00,0.0722,Inf
+PI,Inf,74.06,0.1159,Inf
+PID,Inf,64.77,0.1578,Inf
+Adapt-Smooth,Inf,79.35,0.0757,Inf
+Adapt-Normal,Inf,64.77,0.1578,Inf
+Adapt-Aggressive,Inf,65.45,0.2023,Inf

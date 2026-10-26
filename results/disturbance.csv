@@ -1,0 +1,7 @@
+controller,kind,peak_dev_mps,final_dev_mps,recovery_2pct_s
+P,impulse,0.00417,0.00000,31.30
+P,step,0.03333,0.03333,31.30
+PI,impulse,0.00417,0.00000,54.90
+PI,step,0.01971,0.00001,70.89
+PID,impulse,0.00415,0.00000,37.25
+PID,step,0.01547,-0.00000,55.41
