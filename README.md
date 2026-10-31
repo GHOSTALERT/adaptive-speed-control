@@ -7,6 +7,7 @@ Designed in MATLAB/Simulink, and fully re-run in Python, where all 13 report val
 ![Python](https://img.shields.io/badge/re--run-python--control-3776ab)
 ![Tests](https://img.shields.io/badge/report%20checks-13%20%2F%2013-2e7d32)
 ![Course](https://img.shields.io/badge/VIT-BECE302L%20Control%20Systems-1e3a8a)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 <p align="center">
   <img src="results/figures/fig02_adaptive_profiles.png" alt="Step response of the three driver profiles" width="720"><br>
@@ -77,3 +78,7 @@ The submitted report is in [`report/`](report/) (DOCX and PDF). Its original MAT
 ## Team
 
 BECE302L Control Systems, VIT Vellore, Winter Semester 2025–26: Siddhi Pandey, Arrnav Trisal, Sriya Ganga.
+
+## License
+
+Released under the [MIT License](LICENSE).
